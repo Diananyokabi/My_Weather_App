@@ -56,7 +56,7 @@ a {
     font-weight: 500;
 }
 
-.weather-app-details span {
+.weather-app-details strong {
     color: rgb(216, 117, 134);
 }
 
